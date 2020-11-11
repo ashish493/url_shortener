@@ -1,0 +1,5 @@
+django
+flask
+graphene-django
+hashlib
+
