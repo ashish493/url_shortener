@@ -1,7 +1,6 @@
 # URL SHORTENER
 This is a simple URL Shortener implementated in django and graphene(GraphQL for Python).
 
-
 **Installation**
 
 1. Clone the Repo:-
@@ -39,7 +38,7 @@ The API is designed to take the input url along with some other parameters. It w
 
 However, MD5 Hash is not recommend for use in the production servers because of the [MD5 Collision Vulnerability](https://en.wikipedia.org/wiki/MD5#Collision_vulnerabilities).
 
-Since, it is a fully backend oriented project, I haven't created any type of frontend for this project. If anyone is interested in creating and contributing one, feel free to make a pull request. 
+Since, it is a fully backend oriented project, I haven't created any specific frontend client for this project. However, we would be using the GraphiQL UI from the GraphiQL interface. 
 
 
 ## Acknowledgement
